@@ -24,8 +24,12 @@ Features:
 * Uses artificial intelligence to recognize key sound events of interest to the community.
 * Provides immediate alerts for critical sounds like car horns and babies.
 * Continual logging for the user.
+* Optimized for Android.
+* Low-latency for real-time use.
 
 Non-functional aspects:
 * User-friendliness and accessibility for people with hearing loss.
 * Performance and reliability to ensure the app works in real-time.
 * Security to protect user's data and privacy.
+* Scalability to ensure that the app can handle a large number of users.
+* Compatibility with a range of Android devices and versions.
