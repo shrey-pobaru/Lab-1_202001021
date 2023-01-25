@@ -15,3 +15,17 @@ Non Functional Requirements:
 * Libararian should be given complete administrative privileges and complete control over the system.
 * Ensures that confidential information (e.g. passwords) is not stored in plain text for security reasons.
 * Reduce the security risk of the software.
+
+## Q2 Identify scope, features and non-functional aspects of the following problem.
+Scope:
+The scope of the problem is to create a mobile application that addresses the everyday needs of the 466 million people suffering from disabling hearing loss.
+
+Features:
+* Uses artificial intelligence to recognize key sound events of interest to the community.
+* Provides immediate alerts for critical sounds like car horns and babies.
+* Continual logging for the user.
+
+Non-functional aspects:
+* User-friendliness and accessibility for people with hearing loss.
+* Performance and reliability to ensure the app works in real-time.
+* Security to protect user's data and privacy.
